@@ -1,0 +1,16 @@
+{
+  "name": "chrome-replicate-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rick Lubbers <rick.lubbers@cofano.nl>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "scripts": {
+  	"start": "nodemon app.js"
+  }
+}
